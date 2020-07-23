@@ -1,0 +1,4 @@
+# .NET
+tools/
+**/bin/
+**/obj/
